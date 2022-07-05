@@ -28,8 +28,34 @@ h1{
     border-radius: 30px;
     color: white;
 } 
-#background-sec{
+#background-sec {
     background-image: url(image/background\ 01.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+.text-center {
+    text-align: center;
+}
+.title {
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 20px;
+    padding: 20px;
+}
+.title img{
+    padding-left: 5%;
+}
+#title-1 {
+    margin: 20px 10px 20px 60px;
+}
+#title-2{
+    margin: 20px 60px 20px 10px;
+}
+#followers {
+    margin: 20px 60px;
+    width: 100%;
+    display: flex;
+}
+.social-media{
+    width: 100%;
+    padding-left: 7%;
 }
